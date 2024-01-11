@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java,OOPS,Git & Github**
 
-- 📫 How to reach me **aditya.exponentialy3.14@gmail.com**
+- 📫 How to reach me **aditya.exponentially3.14@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/ltF19](https://shorturl.at/ltF19)
 
