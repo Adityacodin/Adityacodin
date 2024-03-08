@@ -23,7 +23,6 @@
 
 <a href="https://leetcode.com/aditya_compe/">
     <img src="https://leetcard.jacoblin.cool/aditya_compe?theme=dark&font=Goldman&ext=activityy"></img>
-<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
