@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **I code in Java but guess what, i can C.**
 
+<a href="https://leetcode.com/aditya_compe/">
+    <img src="https://leetcard.jacoblin.cool/aditya_compe?theme=dark&font=Goldman&ext=activityy"></img>
+<a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya mohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya mohite" height="30" width="40" /></a>
