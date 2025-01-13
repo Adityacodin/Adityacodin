@@ -5,21 +5,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityacodin&label=Profile%20views&color=0e75b6&style=flat" alt="adityacodin" /> </p>
 
-- 🔭 I’m currently working on [Java projects](https://github.com/Adityacodin/git-demo/tree/main/project)
+- 🌱 I’m currently learning **Data Analytics**
 
-- 🌱 I’m currently learning **DSA, Python**
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 👯 I’m looking to collaborate on **Java projects**
+- 🤝 I’m looking for help with **Advanced SQL,Python**
 
-- 🤝 I’m looking for help with **Python**
-
-- 💬 Ask me about **Java,OOPS,Git & Github**
+- 💬 Ask me about **SQL,Excel,Git & Github**
 
 - 📫 How to reach me **aditya.exponentially3.14@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/ltF19](https://shorturl.at/ltF19)
-
-- ⚡ Fun fact **I code in Java but guess what, i can C.**
 
 <a href="https://leetcode.com/aditya_compe/">
     <img src="https://leetcard.jacoblin.cool/aditya_compe?theme=dark&font=Goldman&ext=activityy"></img>
