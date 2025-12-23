@@ -1,33 +1,61 @@
-![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+![Header](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+
 <h1 align="center">Hi 👋, I'm Aditya Mohite</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<h3 align="center"> Data Analyst | SQL • Python • Excel</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityacodin&label=Profile%20views&color=0e75b6&style=flat" alt="adityacodin" /> </p>
-
-- 🌱 I’m currently learning **Data Analytics**
-
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
-
-- 🤝 I’m looking for help with **Advanced SQL,Python**
-
-- 💬 Ask me about **SQL,Excel,Git & Github**
-
-- 📫 How to reach me **aditya.exponentially3.14@gmail.com**
-
-<a href="https://leetcode.com/aditya_compe/">
-    <img src="https://leetcard.jacoblin.cool/aditya_compe?theme=dark&font=Goldman&ext=activityy"></img>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya mohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya mohite" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aditya_exponent1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya_exponent1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya_compe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityacodin" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityacodin&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityacodin&show_icons=true&locale=en&layout=compact" alt="adityacodin" /></p>
+## 👨‍💻 About Me
+- 🎯 Learning **Data Analytics**
+- 🌱 Currently learning **Advanced SQL, Python for Data Analysis**
+- 🤝 Open to **Data Analysis & Dashboarding projects**
+- 💬 Ask me about **SQL, Excel, Git & GitHub**
+- 📫 Reach me at **aditya.exponentially3.14@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityacodin&" alt="adityacodin" /></p>
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="www.linkedin.com/in/aditya-mohite-aa92742a5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/aditya_exponent1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
+  </a>
+  <a href="https://leetcode.com/aditya_compe/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
+
+---
+
+## 🧠 Problem Solving
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/aditya_compe?theme=dark&font=Goldman&ext=activity"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityacodin&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityacodin"/>
+</p>
